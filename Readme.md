@@ -1,0 +1,4 @@
+- k-Nearest neighbors classification
+- Linear regression
+  - One feature
+  - Multiple features
